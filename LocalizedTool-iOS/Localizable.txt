@@ -1,0 +1,2501 @@
+/* 活动提醒内容，这里有语法，请注意！！！ */
+"%@：请做好活动准备，坚持就是胜利" = "%@：Please get everything ready for activities, adherence is victory";
+
+/* 这里有语法，请注意！！！ */
+"%d个" = "%d";
+
+/* 设备设置里面的 */
+"12小时制" = "12 Hour";
+
+/* 设备设置里面的 */
+"24小时制" = "24 Hour";
+
+/* No comment provided by engineer. */
+"BMP" = "BMP";
+
+/* 设备设置里面的 */
+"LED灯" = "Reminder light";
+
+/* No comment provided by engineer. */
+"一月" = "Jan.";
+
+/* No comment provided by engineer. */
+"七月" = "Jul.";
+
+/* No comment provided by engineer. */
+"三月" = "Mar.";
+
+/* No comment provided by engineer. */
+"上午" = "AM";
+
+/* No comment provided by engineer. */
+"下午" = "PM";
+
+/* 比如：20个俯卧撑，请像这样翻译这里单位的'个' */
+"个" = "";
+
+/* No comment provided by engineer. */
+"个人信息" = "Personal information";
+
+/* No comment provided by engineer. */
+"个人图像" = "Image";
+
+/* 设备设置里面的 */
+"中文" = "Chinese";
+
+/* No comment provided by engineer. */
+"久坐开关" = "Sedentary reminder";
+
+/* 设备设置里面的 */
+"久坐提醒" = "Sedentary reminder";
+
+/* No comment provided by engineer. */
+"久坐时间段" = "Sedentary time";
+
+/* 运动类型 */
+"乒乓球" = "Ping-pong";
+
+/* No comment provided by engineer. */
+"九月" = "Sep.";
+
+/* No comment provided by engineer. */
+"二月" = "Feb.";
+
+/* No comment provided by engineer. */
+"五月" = "May.";
+
+/* No comment provided by engineer. */
+"今天" = "Today";
+
+/* 这里有语法，请注意！！！ */
+"今天共完成%d个目标，请继续加油，加油!" = "%d goal has been achieved today，please go ahead，come on!";
+
+/* No comment provided by engineer. */
+"今天目标全部完成，恭喜您!" = "All the goals have been achieved today，congratulations !";
+
+/* No comment provided by engineer. */
+"今天目标已经完成" = "Toady's goal has been achieved";
+
+/* No comment provided by engineer. */
+"今天目标未完成" = "Toady's goal has not been achieved";
+
+/* 运动类型 */
+"仰卧起坐" = "Sit-ups";
+
+/* No comment provided by engineer. */
+"体重" = "Weight";
+
+/* No comment provided by engineer. */
+"保存" = "Save";
+
+/* No comment provided by engineer. */
+"保存失败" = " Save failed";
+
+/* No comment provided by engineer. */
+"保存成功" = "Save successful";
+
+/* 运动类型 */
+"保龄球" = "Bowling";
+
+/* 运动类型 */
+"俯卧撑" = " Push-ups";
+
+/* 运动类型 */
+"健身" = "Gymnasium";
+
+/* 运动类型 */
+"健身操" = "Aerobics";
+
+/* No comment provided by engineer. */
+"入睡时间" = "Fall asleep";
+
+/* No comment provided by engineer. */
+"八月" = "Aug.";
+
+/* No comment provided by engineer. */
+"六月" = "Jun.";
+
+/* 这里有语法，请注意！！！ */
+"共%d个目标今天均未完成，请继续加油，加油!" = "%d goal has not been achieved today，please go ahead，come on!";
+
+/* 设备设置里面的 */
+"关" = "OFF";
+
+/* No comment provided by engineer. */
+"分钟" = "Min";
+
+/* No comment provided by engineer. */
+"十一月" = "Nov.";
+
+/* No comment provided by engineer. */
+"十二月" = "Dec.";
+
+/* No comment provided by engineer. */
+"十月" = "Oct.";
+
+/* No comment provided by engineer. */
+//"米、千米、千克" = "m,km,kg";
+//计量单位修改 m,km,kg 改为：Metric，inch，feet；
+"米、千米、千克" = "Kg,Km,Kcal";
+
+/* No comment provided by engineer. */
+"单位类型" = "Unit";
+
+/* 卡路里的单位 */
+"卡" = "Kcal";
+
+/* No comment provided by engineer. */
+"卡路里" = "Calories";
+
+/* No comment provided by engineer. */
+"取消" = "Cancel";
+
+/* 例如：1号，像这样翻译这个'号'即可 */
+"号" = "";
+
+/* No comment provided by engineer. */
+"周" = "Week";
+
+/* No comment provided by engineer. */
+"周一" = "Mon";
+
+/* No comment provided by engineer. */
+"周三" = "Wed";
+
+/* No comment provided by engineer. */
+"周二" = "Tues";
+
+/* No comment provided by engineer. */
+"周五" = "Fri";
+
+/* No comment provided by engineer. */
+"周六" = "Sat";
+
+/* No comment provided by engineer. */
+"周四" = "Thur";
+
+/* No comment provided by engineer. */
+"周日" = "Sun";
+
+/* No comment provided by engineer. */
+"周末" = "Weekend";
+
+/* No comment provided by engineer. */
+"四月" = "Apr.";
+
+/* 设备设置里面的 */
+"基本信息" = "Information";
+
+/* No comment provided by engineer. */
+"天" = "Day";
+
+/* No comment provided by engineer. */
+"女" = "Female";
+
+/* No comment provided by engineer. */
+"姓名" = "Name";
+
+/* No comment provided by engineer. */
+"姓名不能为空" = "Name cannot be empty";
+
+/* No comment provided by engineer. */
+"完成度" = "Degree";
+
+/* No comment provided by engineer. */
+"工作日" = "Weekday";
+
+/* No comment provided by engineer. */
+"已实现目标" = "Achieved goal";
+
+/* No comment provided by engineer. */
+"平均睡眠" = "Average sleep";
+
+/* 运动类型 */
+"平板撑" = "Plank";
+
+/* No comment provided by engineer. */
+"年" = "Year";
+
+/* No comment provided by engineer. */
+"年龄" = "Age";
+
+/* 设备设置里面的 */
+"开" = "ON";
+
+/* 运动类型 */
+"引体向上" = "Pull-ups";
+
+/* No comment provided by engineer. */
+"心率示警" = "Heart rate warning";
+
+/* No comment provided by engineer. */
+"心肺锻炼" = "Cardiopulmonary exercise";
+
+/* No comment provided by engineer. */
+"性别" = "Gender";
+
+/* No comment provided by engineer. */
+"总消耗" = "Total";
+
+/* No comment provided by engineer. */
+"总距离" = "Distance";
+
+/* No comment provided by engineer. */
+"我" = "Me";
+
+/* No comment provided by engineer. */
+"我的运动组合" = "My Sports";
+
+/* No comment provided by engineer. */
+"我知道了" = "I see";
+
+/* No comment provided by engineer. */
+"扫描设备的二维码，即可自动连接" = "Scan the device QR code can be automatically connected";
+
+/* 翻译尽量简短 */
+"扫码连接" = "Scan";
+
+/* 可以不翻译这里 */
+"扫码连接设备" = "";
+
+/* No comment provided by engineer. */
+"拍照" = "Camera";
+
+/* 运动类型 */
+"排球" = "Volleyball";
+
+/* No comment provided by engineer. */
+"提醒开关" = "Reminder";
+
+/* No comment provided by engineer. */
+"提醒时间" = "Reminder time";
+
+/* 运动类型 */
+"攀岩" = "Climbing";
+
+/* No comment provided by engineer. */
+"新增运动" = "Add sport";
+
+/* No comment provided by engineer. */
+"无权限访问摄像头" = "’No permission to access the camera";
+
+/* No comment provided by engineer. */
+"无权限访问相册" = "No permission to access photo";
+
+/* No comment provided by engineer. */
+"无氧锻炼" = "Anaerobic exercise";
+
+/* No comment provided by engineer. */
+"无法连接至该设备" = "Connect failed";
+
+/* No comment provided by engineer. */
+"日均浅睡" = "Light sleep";
+
+/* No comment provided by engineer. */
+"日均深睡" = "Deep sleep";
+
+/* 设备设置里面的 */
+"日常设置" = "Setting";
+
+/* No comment provided by engineer. */
+"时间" = "Time";
+
+/* 设备设置里面的 */
+"时间制式" = "Time unit";
+
+/* No comment provided by engineer. */
+"昨天" = "Yesterday";
+
+/* No comment provided by engineer. */
+"是否绑定该设备?" = "Pairing the device?";
+
+/* 翻译尽量简短 */
+"智拍" = "Camera";
+
+/* No comment provided by engineer. */
+"暂不支持该二维码" = "Not support QR code";
+
+/* No comment provided by engineer. */
+"暂无" = "No";
+
+/* No comment provided by engineer. */
+"暂未获取设备的运动列表信息" = "No access  list of sports information";
+
+/* 这里有语法，请注意！！！ */
+"最多只能添加%d个活动" = "Only add up to %d activities";
+
+/* 这里有语法，请注意！！！ */
+"最多只能添加%d个闹钟" = "Only add %d alarm clock";
+
+/* No comment provided by engineer. */
+"月" = "Month";
+
+/* No comment provided by engineer. */
+"有氧锻炼" = "Aerobics";
+
+/* No comment provided by engineer. */
+"未知" = "Unknown";
+
+/* No comment provided by engineer. */
+"未确定运动目标" = "Undetermined Target";
+
+/* No comment provided by engineer. */
+"未绑定" = "Unpaired";
+
+/* No comment provided by engineer. */
+"未设置" = "Unsettled";
+
+/* No comment provided by engineer. */
+"未选择运动类型" = "No activity";
+
+/* 比如：2次，请按此翻译这里的'次' */
+"次" = "times";
+
+/* No comment provided by engineer. */
+"正在使用" = "Using";
+
+/* No comment provided by engineer. */
+"步" = "Steps";
+
+/* No comment provided by engineer. */
+"步数" = "Steps";
+
+/* 运动类型 */
+"步行" = "Walking";
+
+/* No comment provided by engineer. */
+"每天" = "Everyday";
+
+/* 运动类型 */
+"毽球" = "Shuttlecock";
+
+/* No comment provided by engineer. */
+"活动" = "Activity";
+
+/* No comment provided by engineer. */
+"浅睡" = "Light Sleep";
+
+/* No comment provided by engineer. */
+"浅睡时长" = "Light Sleep";
+
+/* No comment provided by engineer. */
+"深睡" = "Deep Sleep";
+
+/* No comment provided by engineer. */
+"深睡时长" = "Deep Sleep";
+
+/* No comment provided by engineer. */
+"添加" = "Add";
+
+/* No comment provided by engineer. */
+"添加闹钟" = "Add Alarm";
+
+/* No comment provided by engineer. */
+"清醒" = "Awake Time";
+
+/* 运动类型 */
+"游泳" = "Swimming";
+
+/* 运动类型 */
+"滑冰" = "Skating";
+
+/* 运动类型 */
+"滑雪" = "Skiing";
+
+/* 例如：1点，像这样翻译这个'点'即可 */
+"点" = "clock";
+
+/* 运动类型 */
+"爬山" = "Mountaineering";
+
+/* No comment provided by engineer. */
+"爱生活、爱运动" = "Enjoy life,enjoy sport";
+
+/* 运动类型 */
+"瑜伽" = "Yoga";
+
+/* No comment provided by engineer. */
+"男" = "Male";
+
+/* 设备设置里面的 */
+"白色" = "White";
+
+/* No comment provided by engineer. */
+"目标" = "Target";
+
+/* No comment provided by engineer. */
+"目标设定" = "Target setting";
+
+/* 翻译尽量简短 */
+"目标设置" = "Target";
+
+/* No comment provided by engineer. */
+"相册" = "Album";
+
+/* 设备设置里面的 */
+"硬件功能" = "Hardware function";
+
+/* No comment provided by engineer. */
+"确定" = "Confirm";
+
+/* 这里有语法，请注意！！！ */
+"第%d周" = "%d week";
+
+/* 运动类型 */
+"篮球" = "Basketball";
+
+/* No comment provided by engineer. */
+"绑定" = "Pairing";
+
+/* No comment provided by engineer. */
+"编辑运动" = "Edit";
+
+/* No comment provided by engineer. */
+"编辑闹钟" = "Edit";
+
+/* 运动类型 */
+"网球" = "Tennis";
+
+/* 运动类型 */
+"羽毛球" = "Badminton";
+
+/* No comment provided by engineer. */
+"脂肪燃烧" = "Fat burning";
+
+/* 设备设置里面的 */
+"睡眠监测" = "Sleep monitor";
+
+/* No comment provided by engineer. */
+"至少选中一天" = "At least select a day";
+
+/* 运动类型 */
+"舞蹈" = "Dancing";
+
+/* No comment provided by engineer. */
+//计量单位修改，pound改为Imperical
+//"英寸 、英尺 、磅" = "Inch,Feet,Pound";
+"英寸 、英尺 、磅" = "Inch,Feet,Kcal";
+
+/* 设备设置里面的 */
+"英文" = "English";
+
+/* No comment provided by engineer. */
+"解除成功" = "Success";
+
+/* No comment provided by engineer. */
+"解除绑定" = "Unpair";
+
+/* No comment provided by engineer. */
+"解除绑定该设备?" = "Unpair the device?";
+
+/* No comment provided by engineer. */
+"计量单位" = "Measuring unit";
+
+/* No comment provided by engineer. */
+"设备" = "Device";
+
+/* No comment provided by engineer. */
+"设备名称" = "Device name";
+
+/* 设备设置里面的 */
+"设备连接" = "Device connected";
+
+/* No comment provided by engineer. */
+"设置" = "Setting";
+
+/* No comment provided by engineer. */
+"该运动不能删除" = "This activity can’t deleted";
+
+/* No comment provided by engineer. */
+"该闹钟已经存在" = "This alarm clock already exist";
+
+/* 设备设置里面的 */
+"语言" = "Bracelet language";
+"手环语言" = "Bracelet language";
+
+/* No comment provided by engineer. */
+"请在设置/隐私/相册中开启访问权限" = "Enter setting/Privacy/Photo album open access permission";
+
+/* No comment provided by engineer. */
+"请在设置/隐私/相机中开启访问权限" = "Enter setting/Privacy/Camera open access permission";
+
+/* 可以不翻译这里 */
+"请对准设备二维码" = "";
+
+/* No comment provided by engineer. */
+"请扫描设备二维码" = "Pls scan device QR code";
+
+/* No comment provided by engineer. */
+"请稍候再试" = "Pls try later";
+
+/* No comment provided by engineer. */
+"请输入您的姓名" = "Pls input your name";
+
+/* 运动类型 */
+"足球" = "Football";
+
+/* No comment provided by engineer. */
+"距离" = "Distance";
+
+/* 运动类型 */
+"跳绳" = "Skipping";
+
+/* No comment provided by engineer. */
+"身高" = "Height";
+
+/* No comment provided by engineer. */
+"运动目标" = "Sport target";
+
+/* No comment provided by engineer. */
+"运动类型" = "Sport type";
+
+/* 建议首字母大写 */
+"返回" = "Back";
+
+/* No comment provided by engineer. */
+"还未绑定设备" = "Device unpair";
+
+/* No comment provided by engineer. */
+"还未选择提醒时间" = "Reminder time not setup";
+
+/* No comment provided by engineer. */
+"连接中" = "Pairing";
+
+/* No comment provided by engineer. */
+"连接中..." = "Pairing...";
+
+/* No comment provided by engineer. */
+"连接成功" = "Connect success";
+
+/* No comment provided by engineer. */
+"连接超时" = "Connect overtime";
+
+/* No comment provided by engineer. */
+"连续达标" = "Continuous goal";
+
+/* No comment provided by engineer. */
+"选择照片" = "Choose picture";
+
+/* No comment provided by engineer. */
+"醒来时间" = "Wake up";
+
+/* No comment provided by engineer. */
+"睡眠时长" = "Sleeping Time";
+
+/* No comment provided by engineer. */
+"重复设置" = "Repeat setting";
+
+/* No comment provided by engineer. */
+"错误：无法访问摄像头" = "Error: unable to access camera";
+
+/* No comment provided by engineer. */
+"闹钟" = "Alarm";
+
+/* 设备设置里面的 */
+"闹钟设置" = "Alarm setting";
+
+/* No comment provided by engineer. */
+"首页" = "Home";
+
+/* 运动类型：骑行 */
+"骑自行车" = "Cycling";
+
+/* 设备设置里面的 */
+"黑白反色" = "Black or White";
+
+/* 设备设置里面的 */
+"黑色" = "Black";
+
+/* 设备设置里面的 */
+"已发送指令" = "Command Sent";
+
+/* 设备设置里面的 */
+"同步手环时间" = "Sync time";
+
+/* No comment provided by engineer. */
+"清醒时长" = "Awake Time";
+
+/* 设备设置里面的 */
+"翻转手势" = "Palming gesture";
+
+/* No comment provided by engineer. */
+"版本信息" = "Version";
+
+/* No comment provided by engineer. */
+"下一步" = "Next";
+
+/* 喝水时间推送 */
+
+"drink_0700" = "Did you know? Walking is relatively simple and not risky. Make the first step today, every minute counts and builds up for your health.";
+"drink_0900" = "Do yourself a favor, decide one day of the week when you go up the stairs and not in the elevator. Your weekly \"stair day\" significantly improves your quality of life";
+"drink_1100" = "Drinking water makes you healthier and more beautiful, go ahead!";
+"drink_1330" = "A glass of water before lunch will help for better digestion and keep fit.";
+"drink_1430" = "Call on the phone? When talking on the phone - it is best to use this for movement, speak while standing or walking (do not sit).";
+"drink_1630" = "When did you last eat? More than 4 hours ago? So go ahead .. It's time to bite something healthy …";
+"drink_2000" = "Going to practice? Take some fruit with you 15 mintus  before.";
+"dinner_2100" = "Timing is everything! So in each workout, consider the time of the activity, the duration of the rest between the sets, the duration of the warmup and the relaxation. A watch is an important tool of course.";
+
+//"drink_0800" = "Good morning! A cup of lukewarm water on an empty stomach keeps you healthy.  ";
+
+//"drink_0900" = " Ready to begin today's studies or working? Let’s have some water to keep playing well!";
+
+"drink_1030" = "Drinking water makes you healthier and more beautiful, go ahead!";
+
+//"dinner_1200" = "Finished working hard in the morning, have some water and take a break.";
+
+//"drink_1330" = "A glass of water before lunch will help for better digestion and keep fit.";
+
+//"drink_1630" = "Digesting food requires water. It is a good idea to drink more water daily.";
+
+"drink_1800" = "Drinking water helps to relieve stress, please take good care of yourself.";
+
+//"drink_2000" = "You have done a good job today, it’s time to have a cup of beauty water as well as beauty sleep!";
+
+/* 吃饭提醒 */
+//"drink_1400" = "A good lunch helps keep a high spirit for studying and working!.";
+
+//"dinner_2100" = "Time for dinner, a light meal makes for better health.";
+
+/* 睡觉提醒 */
+"sleep_2300" = "Early to bed and early to rise makes a man healthy, wealthy, and wise. Time for a good night’s rest. See you tomorrow.";
+
+"健康提醒" = "Schedule";
+
+"选择时间范围" = "Choose Time";
+
+" 更多设备 " = "More Device ";
+
+" 关闭列表 " = "Close List ";
+
+"设备名称" = "Device name";
+
+"正在同步" = "Synchronizing";
+
+"连接状态" = "Connect status";
+
+"未连接" = "Disconnected";
+
+"已连接" = "Connected";
+
+"已断开" = "Unconnected";
+
+//新增
+
+"今天消耗了,感觉自己棒棒哒！" = "calories burned today,Good job!";
+
+"今天消耗了,每天都有新进步！" = "calories burned today, Step forward day by day!";
+
+"今天消耗了,我就是最棒的！" = "calories burned today,Great!";
+
+"今天消耗了,要加油哦！" = "Come on!";
+
+//2016.5.27
+"公制" = "Metric";
+
+"英制" = "Imperial";
+
+"标签" = "Title";
+
+"推送内容" = "Push Message";
+
+//2016.6.12
+"搜索" = "Search";
+
+"停止" = "Searching";
+
+//2016.6.15 double
+"写入成功" = "Write to successful";
+
+"写入失败" = "Failed";
+
+"当天最多设置4个日程;总共不能设置超过20个日程;日程时间不能相同" = "Maximum 4 agendas daily; maximum 20 agendas in total;Agenda time can't be same";
+
+"提示" = "Reminder";
+
+"清空" = "Clear";
+
+"是否要清空日程" = "Clear agenda?";
+
+"正在写入" = "Typing";
+
+"日程时间不可以早于当前时间" = "Time setting can't be earlier than this moment";
+
+//2016.6.15 yip
+"解除连接" = "Disconnect";
+
+"设备图片" = "Image";
+
+"输入修改名称" = "Modified name";
+
+"同一天的运动最多设置5个" = "Maximum 5 kinds sports daily";
+
+"未选择重复设置" = "Choose weekly";
+
+//2016.6.16
+"请设置提醒标签" = "Please  set";
+
+//2016.7.1  double
+"固件版本" = "Firmware version";
+
+"固件升级" = "Firmware update";
+
+"检测固件版本..." = "Check version";
+
+"目前只支持i7固件升级" = "APP only support I7";
+
+"已是最新版本" = "It's already the latest version";
+
+"升级完成" = "Update completed";
+
+"正在升级" = "Upgrading";
+
+"升级失败" = "Upgrade failed";
+
+"设备电量需大于50才可以升级" = "Device's battery should be more than 50%";
+
+"可以升级，是否升级?" = "New version available, upgrade now?";
+
+//2016.8.11 double
+
+"还没有测到睡眠数据" = "Wear it at night to get your sleeping quality data";
+
+"还没有运动数据，赶紧去运动吧" = "No data available, go create your own sportrecords";
+
+"还没有添加任何运动，赶紧动起来吧" = "No sportsmode available, make it now";
+
+"还没有心率数据" = "No HR (heart rate) data available";
+
+"深睡时间" = "Deep sleep";
+
+"浅睡时间" = "Light sleep";
+
+"最长睡眠" = "Longest sleep";
+
+"最短睡眠" = "Shortest sleep ";
+
+"日均睡眠" = "Daily sleep time";
+
+"需要改善" = "Need improvement";
+
+"睡眠优秀" = "Excellent sleep";
+
+"日均入睡" = "Daily fallen asleep";
+
+"日均醒来" = "Daily wake up";
+
+"有氧运动" = "Aerobic exercise";
+
+"无氧运动" = "Anaerobic exercise";
+
+"峰值锻炼" = "Peak ";
+
+//2016.8.17 double
+
+"睡眠小知识" = "Sleeping tips";
+
+"睡眠分数的得来:" = "How to get sleeping scores:";
+
+"你每天晚上的睡眠效率是结合你的入睡时间、起床时间、深睡眠与浅睡眠的时间总和、醒来次数和每次醒来的时间、总睡眠时长对于目标睡眠时长的达标情况等多维度数据通过公式计算得出。" = "The efficiency of sleeping is calculated by a formula that depends on when you go to sleep, when you wake up, the summation of deep sleep and light sleep, awake times, awake duration and the entire sleep time compare to goal setting.";
+
+"改善睡眠小Tips：" = "Tips to improve your sleeping condition：";
+
+"1.睡前放松心情，失眠时调整心态。" = "1.Relax before sleeping";
+
+"2.安排规律生活，养成良好的睡眠习惯，保持适度运动。" = "2.Develop regular lifestyle, good sleep habit, keep doing exercises.";
+
+"3.营造良好的睡眠环境，保持房间通风和选择软硬适中的床、被褥、枕头。" = "3.Create a good environment for sleeping, keep the room ventilation and choose the suitable pillow and bed.";
+
+"4.睡前可选择有助于改善睡眠的食物如牛奶、桂圆、莲子、核桃等。" = "4.Choose foods such as milk, walnut, etc. to improve sleep";
+
+"心率小知识" = "Heart rate tips";
+
+"四大心率区域" = "Four Heart rate Zone";
+
+"有氧运动（最大心率的50%-70%）" = "aerobic exercise(50%-70% maximum heart rate)";
+
+"是较低强度锻炼区域，并且是刚开始参加锻炼人士的好选择。该区域称为有氧运动区域。它的特点是强度低，有节奏，持续时间较长。要求每次锻炼的时间不少于30分钟，每周坚持3到5次。这种锻炼，氧气能充分燃烧（即氧化）体内的糖分，还可消耗体内脂肪，增强和改善心肺功能，预防骨质疏松，调节心理和精神状态，是健身的主要运动方式。常见的运动有慢跑、自行车。" = "Aerobic exercise includes lower intensity activities performed for longer periods of time. Activities such as walking, long slow runs, rowing and cycling requires a great deal of oxygen to generate the energy needed for prolonged exercise.";
+
+"无氧运动（最大心率的70%-80%）" = "Anaerobic exercise(70%-80% maximum heart rate)";
+
+"是适中强度锻炼区域。在此区域内，您运动时氧气的摄取量非常低，由于速度过快及爆发力过猛，人体内的糖分来不及经过氧气分解，而不得不依靠“无氧供能”。 无氧运动大部分是负荷强度高、瞬间性强的运动，所以很难持续长时间，而且疲劳消除的时间也慢。无氧运动最主要的功效是能增强肌肉力量和增加肌肉围度。常见的运动有举重、百米冲刺、摔跤等。" = "Anaerobic exercise is a physical exercise. Intense enough to cause lactate to form. It is used by athletes in non-endurance sports to promote strength, speed and power and by body builders to build muscle mass. Muscle energy systems are trained using anaerobic exercise to develop differently compared to aerobic exercise, which lead to greater performance in short duration. High intensity activities, which last from more than 2 minutes. Any activity lasting longer than two minutes has a large aerobic metabolic component";
+
+"心肺锻炼（最大心率的80%-90%）" = "Cardio fitness(80%-90% maximum heart rate)";
+
+"是较高强度锻炼区域。在此区域内，您出于努力锻炼状态，但不至于精疲力尽。对于大多数人，这是锻炼时的目标心率区域。" = "It is high intensity exercise area. In this area, you are in effort to exercise, but not exhausted. For most people, this is the target heart rate zone during exercise.";
+
+"峰值锻炼（大于最大心率的90%）" = "High-intensity interval training( >90% maximum heart rate)";
+
+"是高强度锻炼区间。在峰值区域进行短时间的高强度运动可以提高运动成绩和速度。" = "High-intensity interval training; based on aerobic exercises like running, cycling and rowing. It effectively becomes anaerobic when performed in excess of 90% maximum of the heart rate.  ";
+
+// 2016.8.17 Yip
+"已实现目标次数" = "goal reached";
+
+//2016.8.25 double
+"0小时0分钟" = "0h0min";
+
+"%d小时%d分钟" = "%dH%dMin";
+
+"分" = "min";
+
+"同步时间" = "Sync time";
+
+"固件版本" = "Firmware version";
+
+"App版本" = "APP version";
+
+"设备设置" = "Device setting";
+
+"喝水提醒" = "Reminder";
+
+"绑定设备" = "Binding device";
+
+"信息反馈" = "feedback";
+
+"睡眠目标" = "Sleep target";
+
+"请把固件升级到3.0，否则将无法正常使用" = "Please upgrade firmware to 3.0, otherwise will not be able to normal use";
+
+"暂不升级" = "NO";
+
+"升级" = "YES";
+
+"请连接设备" = "Please Bind the Device";
+
+"信息反馈"  = "feedback";
+
+"您的联系方式" = "Contact information";
+
+"邮箱" = "Email";
+
+"在这里输入反馈" = "Please give your feedback here...";
+
+// 2016.8.30 Yip
+"日均步数" = "Steps";
+
+"日均时间" = "Time";
+
+"总 里 程" = "Distance";
+
+"总 消 耗" = "Calories";
+
+"心率" = "Heart Rate";
+
+"点击可以\n切换数据" = "Press to change data";
+
+"输入的反馈不能为空啊!" = "Can't be empty";
+
+"请输入您的邮箱地址，便于我们联系您!" = "Type mail address here";
+
+"请输入相应的信息,谢谢合作!" = "Type your feedbacks pls.";
+
+"输入的邮箱格式有误!" = "Mail error";
+
+"上周" = "Last week";
+
+"本周" = "This week";
+
+"简体" = "Icon only";
+
+"跑步" = "Running";
+
+
+//消息推送
+"消息推送" = "Message push";
+
+"震动设置" = "Vibration Setting";
+
+"全部打开" = "Open all";
+
+"来电" = "Incoming call";
+
+"闹钟" = "Alarm";
+
+"日程" = "Schedule";
+
+"久坐提醒" = "Sedentary Reminder";
+
+"短信及其他提醒" = "Notification";
+
+"震动模式" = "Vibration Mode";
+
+"循环次数" = "Loop times";
+
+"模式选择" = "Mode Selection";
+
+"次数选择" = "Times Selection";
+
+"断奏" = "Staccato";
+
+"波浪" = "Wave";
+
+"心跳" = "Heartbeat";
+
+"放射" = "Radation";
+
+"灯塔" = "blue light";
+
+"交响乐" = "Symphony";
+
+"快速" = "Celerity";
+
+"超过最大字数不能输入了" = "Can't type more words";
+
+"请设置提醒推送内容" = "Please set remind content";
+
+"支持" = "Support";
+
+"球类运动" = "Ball";
+
+"时间段" = "Time";
+
+"意大利语" = "Italian";
+
+"分数" = "“Score";
+
+"紧急修复" = "Firmware aid";
+
+"进入" = "Enter";
+
+"免责声明" = "Disclaimer";
+
+"请先同意以上条款" = "Please agree to the above terms and conditions";
+
+"运动记录" = "Record";
+
+"提示" = "Tip";
+
+"请在设置中打开定位" = "Please open the location in settings";
+
+"打开定位" = "Open GPS";
+
+"起点" = "Start";
+
+"终点" = "End";
+
+"打开[定位服务权限]来允许[GPS运动]确定您的位置" = "Open the [Locate service privilege] to allow [GPS movement] to determine your location";
+
+"请在系统设置中开启定位服务(设置>隐私>定位服务>开启)" = "Please open the location in settings (Settings > Privacy > Locate services > Open)";
+
+"去设置" = "Setting";
+
+"打开[定位服务]来允许[GPS运动]确定您的位置" = "Open the [Locate service privilege] to allow [GPS movement] to determine your location";
+
+"请在系统设置中开启定位服务(设置>隐私>定位服务>LinkSmart>始终)" = "Please open the location in settings (Settings > Privacy > Locate services > Open>LinkSmart>Always)";
+
+"是否保存本次运动" = "Do you want to keep this exercise?";
+
+"丢弃" = "Discard";
+
+"数据量太少，本次运动不保存" = "The data of this movement is too little to save";
+
+"好的" = "OK";
+
+"累计时长" = "Cumulative duration";
+
+"平均配速" = "Average pace";
+
+"累计次数" = "Cumulative times";
+
+"配速" = "Pace";
+
+"开始运动" = "Start";
+
+"暂停" = "Pause";
+
+"继续" = "Continue";
+
+"结束" = "Finish";
+
+"骑车" = "Cycling";
+
+"走路" = "Walking";
+
+"公里" = "Km";
+
+"千卡" = "kcal";
+
+"GPS运动" = "GPS Sport";
+
+"时长" = "duration";
+
+"提交成功" = "submitted Successfully";
+
+"波兰语" = "Polish";
+
+//  DW038
+"总时长" = "Total Time";
+
+"运动时长" = "Sport Time";
+
+"暂停时长" = "Pause Time";
+
+"消耗" = "Consume";
+
+"分钟/公里" = "minute/km";
+
+"大卡" = "Kcal";
+
+"步频" = "Frequency";
+
+"时速" = "Speed";
+
+"次/分钟" = "count/minute";
+
+"步/分钟" = "step/minute";
+
+"公里/小时" = "km/hour";
+
+"最大步频" = "Max";
+
+"平均步频" = "Avg";
+
+"时间: 分钟" = "Time：Minute";
+
+"平均心率" = "Avg Heart Rate";
+
+"最佳配速" = "Best";
+"平均配速2" = "Avg";
+
+
+"健步走" = "Powalking";
+
+
+
+"月/日" = "MM/DD";
+
+"日/月" = "DD/MM";
+
+"日期格式" = "Date Format";
+
+
+"Automatic activity detection" = "Automatic activity detection";
+
+
+"During the upgrade process, make sure the app is running on the screen and the screen is lit up during the entire upgrade process." = "During the upgrade process, make sure the app is running on the screen and the screen is lit up during the entire upgrade process.";
+
+
+
+
+
+/* No comment provided by engineer. */
+" 关闭列表 " = " 关闭列表 ";
+
+/* No comment provided by engineer. */
+" 更多设备 " = " 更多设备 ";
+
+/* No comment provided by engineer. */
+"%@%%" = "%@%%";
+
+/* No comment provided by engineer. */
+"%@：请做好活动准备，坚持就是胜利" = "%@：请做好活动准备，坚持就是胜利";
+
+/* No comment provided by engineer. */
+"%d个" = "%d个";
+
+/* No comment provided by engineer. */
+"%d小时%d分钟" = "%1$d小时%2$d分钟";
+
+/* No comment provided by engineer. */
+"," = ",";
+
+/* No comment provided by engineer. */
+"0%" = "0%";
+
+/* No comment provided by engineer. */
+"0小时0分钟" = "0小时0分钟";
+
+/* No comment provided by engineer. */
+"1.睡前放松心情，失眠时调整心态。" = "1.睡前放松心情，失眠时调整心态。";
+
+/* No comment provided by engineer. */
+"12小时制" = "12小时制";
+
+/* No comment provided by engineer. */
+"2.安排规律生活，养成良好的睡眠习惯，保持适度运动。" = "2.安排规律生活，养成良好的睡眠习惯，保持适度运动。";
+
+/* No comment provided by engineer. */
+"24小时制" = "24小时制";
+
+/* No comment provided by engineer. */
+"3.营造良好的睡眠环境，保持房间通风和选择软硬适中的床、被褥、枕头。" = "3.营造良好的睡眠环境，保持房间通风和选择软硬适中的床、被褥、枕头。";
+
+/* No comment provided by engineer. */
+"4.睡前可选择有助于改善睡眠的食物如牛奶、桂圆、莲子、核桃等。" = "4.睡前可选择有助于改善睡眠的食物如牛奶、桂圆、莲子、核桃等。";
+
+/* No comment provided by engineer. */
+"alarmShakeMode" = "alarmShakeMode";
+
+/* No comment provided by engineer. */
+"AM" = "AM";
+
+/* No comment provided by engineer. */
+"Application ID functions require SQLite 3.7.17" = "Application ID functions require SQLite 3.7.17";
+
+/* No comment provided by engineer. */
+"App版本" = "App版本";
+
+/* No comment provided by engineer. */
+"BMP" = "BMP";
+
+/* No comment provided by engineer. */
+"callShakeMode" = "callShakeMode";
+
+/* No comment provided by engineer. */
+"cm" = "cm";
+
+/* No comment provided by engineer. */
+"dinner_1400" = "dinner_1400";
+
+/* No comment provided by engineer. */
+"dinner_2100" = "dinner_2100";
+
+/* No comment provided by engineer. */
+"displayname" = "displayname";
+
+/* No comment provided by engineer. */
+"drink_0700" = "drink_0700";
+
+/* No comment provided by engineer. */
+"drink_0800" = "drink_0800";
+
+/* No comment provided by engineer. */
+"drink_0900" = "drink_0900";
+
+/* No comment provided by engineer. */
+"drink_1030" = "drink_1030";
+
+/* No comment provided by engineer. */
+"drink_1100" = "drink_1100";
+
+/* No comment provided by engineer. */
+"drink_1200" = "drink_1200";
+
+/* No comment provided by engineer. */
+"drink_1330" = "drink_1330";
+
+/* No comment provided by engineer. */
+"drink_1430" = "drink_1430";
+
+/* No comment provided by engineer. */
+"drink_1630" = "drink_1630";
+
+/* No comment provided by engineer. */
+"drink_1800" = "drink_1800";
+
+/* No comment provided by engineer. */
+"drink_2000" = "drink_2000";
+
+/* No comment provided by engineer. */
+"During the upgrade process, make sure the app is running on the screen and the screen is lit up during the entire upgrade process." = "During the upgrade process, make sure the app is running on the screen and the screen is lit up during the entire upgrade process.";
+
+/* No comment provided by engineer. */
+"Facebook" = "Facebook";
+
+/* No comment provided by engineer. */
+"ft" = "ft";
+
+/* No comment provided by engineer. */
+"GPS运动" = "GPS运动";
+
+/* No comment provided by engineer. */
+"H" = "H";
+
+/* No comment provided by engineer. */
+"h" = "h";
+
+/* No comment provided by engineer. */
+"in" = "in";
+
+/* No comment provided by engineer. */
+"kg" = "kg";
+
+/* No comment provided by engineer. */
+"km" = "km";
+
+/* No comment provided by engineer. */
+"lb" = "lb";
+
+/* No comment provided by engineer. */
+"LED灯" = "LED灯";
+
+/* No comment provided by engineer. */
+"longSitShakeMode" = "longSitShakeMode";
+
+/* No comment provided by engineer. */
+"m" = "m";
+
+/* No comment provided by engineer. */
+"Mail" = "Mail";
+
+/* No comment provided by engineer. */
+"mi" = "mi";
+
+/* No comment provided by engineer. */
+"min" = "min";
+
+/* No comment provided by engineer. */
+"msgShakeMode" = "msgShakeMode";
+
+/* No comment provided by engineer. */
+"Please enter a problem description:\n\n" = "Please enter a problem description:\n\n";
+
+/* No comment provided by engineer. */
+"PM" = "PM";
+
+/* No comment provided by engineer. */
+"QQ" = "QQ";
+
+/* No comment provided by engineer. */
+"remindShakeMode" = "remindShakeMode";
+
+/* No comment provided by engineer. */
+"Save point functions require SQLite 3.7" = "Save point functions require SQLite 3.7";
+
+/* No comment provided by engineer. */
+"Skype" = "Skype";
+
+/* No comment provided by engineer. */
+"sleep_2300" = "sleep_2300";
+
+/* No comment provided by engineer. */
+"SMS" = "SMS";
+
+/* No comment provided by engineer. */
+"Twitter" = "Twitter";
+
+/* No comment provided by engineer. */
+"version" = "version";
+
+/* No comment provided by engineer. */
+"WeChat" = "WeChat";
+
+/* No comment provided by engineer. */
+"WhatsApp" = "WhatsApp";
+
+/* No comment provided by engineer. */
+"X" = "X";
+
+/* No comment provided by engineer. */
+"一月" = "一月";
+
+/* No comment provided by engineer. */
+"七月" = "七月";
+
+/* No comment provided by engineer. */
+"三月" = "三月";
+
+/* No comment provided by engineer. */
+"上周" = "上周";
+
+/* No comment provided by engineer. */
+"下一步" = "下一步";
+
+/* No comment provided by engineer. */
+"丢弃" = "丢弃";
+
+/* No comment provided by engineer. */
+"个" = "个";
+
+/* No comment provided by engineer. */
+"个人图像" = "个人图像";
+
+/* No comment provided by engineer. */
+"中文" = "中文";
+
+/* No comment provided by engineer. */
+"久坐开关" = "久坐开关";
+
+/* No comment provided by engineer. */
+"久坐提醒" = "久坐提醒";
+
+/* No comment provided by engineer. */
+"久坐时间段" = "久坐时间段";
+
+/* No comment provided by engineer. */
+"乒乓球" = "乒乓球";
+
+/* No comment provided by engineer. */
+"九月" = "九月";
+
+/* No comment provided by engineer. */
+"二月" = "二月";
+
+/* No comment provided by engineer. */
+"五月" = "五月";
+
+/* No comment provided by engineer. */
+"交响乐" = "交响乐";
+
+/* No comment provided by engineer. */
+"今天" = "今天";
+
+/* No comment provided by engineer. */
+"今天消耗了,感觉自己棒棒哒！" = "今天消耗了,感觉自己棒棒哒！";
+
+/* No comment provided by engineer. */
+"今天消耗了,我就是最棒的！" = "今天消耗了,我就是最棒的！";
+
+/* No comment provided by engineer. */
+"今天消耗了,每天都有新进步！" = "今天消耗了,每天都有新进步！";
+
+/* No comment provided by engineer. */
+"今天消耗了,要加油哦！" = "今天消耗了,要加油哦！";
+
+/* No comment provided by engineer. */
+"仰卧起坐" = "仰卧起坐";
+
+/* No comment provided by engineer. */
+"体重" = "体重";
+
+/* No comment provided by engineer. */
+"你每天晚上的睡眠效率是结合你的入睡时间、起床时间、深睡眠与浅睡眠的时间总和、醒来次数和每次醒来的时间、总睡眠时长对于目标睡眠时长的达标情况等多维度数据通过公式计算得出。" = "你每天晚上的睡眠效率是结合你的入睡时间、起床时间、深睡眠与浅睡眠的时间总和、醒来次数和每次醒来的时间、总睡眠时长对于目标睡眠时长的达标情况等多维度数据通过公式计算得出。";
+
+/* No comment provided by engineer. */
+"保存" = "保存";
+
+/* No comment provided by engineer. */
+"保存fffffffffffffffff" = "保存fffffffffffffffff";
+
+/* No comment provided by engineer. */
+"保存失败" = "保存失败";
+
+/* No comment provided by engineer. */
+"保存成功" = "保存成功";
+
+/* No comment provided by engineer. */
+"保龄球" = "保龄球";
+
+/* No comment provided by engineer. */
+"信息反馈" = "信息反馈";
+
+/* No comment provided by engineer. */
+"俯卧撑" = "俯卧撑";
+
+/* No comment provided by engineer. */
+"停止" = "停止";
+
+/* No comment provided by engineer. */
+"健康提醒" = "健康提醒";
+
+/* No comment provided by engineer. */
+"健步走" = "健步走";
+
+/* No comment provided by engineer. */
+"健身" = "健身";
+
+/* No comment provided by engineer. */
+"健身操" = "健身操";
+
+/* No comment provided by engineer. */
+"免责声明" = "免责声明";
+
+/* No comment provided by engineer. */
+"免责声明2" = "免责声明2";
+
+/* No comment provided by engineer. */
+"入睡时间" = "入睡时间";
+
+/* No comment provided by engineer. */
+"八月" = "八月";
+
+/* No comment provided by engineer. */
+"公制" = "公制";
+
+/* No comment provided by engineer. */
+"公里" = "公里";
+
+/* No comment provided by engineer. */
+"公里/小时" = "公里/小时";
+
+/* No comment provided by engineer. */
+"六月" = "六月";
+
+/* No comment provided by engineer. */
+"关" = "关";
+
+/* No comment provided by engineer. */
+"写入失败" = "写入失败";
+
+/* No comment provided by engineer. */
+"写入成功" = "写入成功";
+
+/* No comment provided by engineer. */
+"分钟" = "分钟";
+
+/* No comment provided by engineer. */
+"分钟/公里" = "分钟/公里";
+
+/* No comment provided by engineer. */
+"十一月" = "十一月";
+
+/* No comment provided by engineer. */
+"十二月" = "十二月";
+
+/* No comment provided by engineer. */
+"十月" = "十月";
+
+/* No comment provided by engineer. */
+"千卡" = "千卡";
+
+/* No comment provided by engineer. */
+"升级" = "升级";
+
+/* No comment provided by engineer. */
+"升级失败" = "升级失败";
+
+/* No comment provided by engineer. */
+"升级完成" = "升级完成";
+
+/* No comment provided by engineer. */
+"单位类型" = "单位类型";
+
+/* No comment provided by engineer. */
+"卡" = "卡";
+
+/* No comment provided by engineer. */
+"卡路里" = "卡路里";
+
+/* No comment provided by engineer. */
+"去设置" = "去设置";
+
+/* No comment provided by engineer. */
+"取消" = "取消";
+
+/* No comment provided by engineer. */
+"可以升级，是否升级?" = "可以升级，是否升级?";
+
+/* No comment provided by engineer. */
+"号" = "号";
+
+/* No comment provided by engineer. */
+"同一天的运动最多设置5个" = "同一天的运动最多设置5个";
+
+/* No comment provided by engineer. */
+"同步手环时间" = "同步手环时间";
+
+/* No comment provided by engineer. */
+"同步时间" = "同步时间";
+
+/* No comment provided by engineer. */
+"周" = "周";
+
+/* No comment provided by engineer. */
+"周一" = "周一";
+
+/* No comment provided by engineer. */
+"周三" = "周三";
+
+/* No comment provided by engineer. */
+"周二" = "周二";
+
+/* No comment provided by engineer. */
+"周五" = "周五";
+
+/* No comment provided by engineer. */
+"周六" = "周六";
+
+/* No comment provided by engineer. */
+"周四" = "周四";
+
+/* No comment provided by engineer. */
+"周日" = "周日";
+
+/* No comment provided by engineer. */
+"周末" = "周末";
+
+/* No comment provided by engineer. */
+"喝水提醒" = "喝水提醒";
+
+/* No comment provided by engineer. */
+"四大心率区域" = "四大心率区域";
+
+/* No comment provided by engineer. */
+"四月" = "四月";
+
+/* No comment provided by engineer. */
+"固件升级" = "固件升级";
+
+/* No comment provided by engineer. */
+"固件版本" = "固件版本";
+
+/* No comment provided by engineer. */
+"在这里输入反馈" = "在这里输入反馈";
+
+/* No comment provided by engineer. */
+"基本信息" = "基本信息";
+
+/* No comment provided by engineer. */
+"大卡" = "大卡";
+
+/* No comment provided by engineer. */
+"天" = "天";
+
+/* No comment provided by engineer. */
+"女" = "女";
+
+/* No comment provided by engineer. */
+"好的" = "好的";
+
+/* No comment provided by engineer. */
+"姓名" = "姓名";
+
+/* No comment provided by engineer. */
+"姓名不能为空" = "姓名不能为空";
+
+/* No comment provided by engineer. */
+"完成度" = "完成度";
+
+/* No comment provided by engineer. */
+"峰值锻炼" = "峰值锻炼";
+
+/* No comment provided by engineer. */
+"峰值锻炼（大于最大心率的90%）" = "峰值锻炼（大于最大心率的90%）";
+
+/* No comment provided by engineer. */
+"工作日" = "工作日";
+
+/* No comment provided by engineer. */
+"已发送指令" = "已发送指令";
+
+/* No comment provided by engineer. */
+"已实现目标" = "已实现目标";
+
+/* No comment provided by engineer. */
+"已断开" = "已断开";
+
+/* No comment provided by engineer. */
+"已是最新版本" = "已是最新版本";
+
+/* No comment provided by engineer. */
+"已连接" = "已连接";
+
+/* No comment provided by engineer. */
+"平均心率" = "平均心率";
+
+/* No comment provided by engineer. */
+"平均步频" = "平均步频";
+
+/* No comment provided by engineer. */
+"平均睡眠" = "平均睡眠";
+
+/* No comment provided by engineer. */
+"平均配速" = "平均配速";
+
+/* No comment provided by engineer. */
+"平均配速2" = "平均配速2";
+
+/* No comment provided by engineer. */
+"平板撑" = "平板撑";
+
+/* No comment provided by engineer. */
+"年" = "年";
+
+/* No comment provided by engineer. */
+"年龄" = "年龄";
+
+/* No comment provided by engineer. */
+"开" = "开";
+
+/* No comment provided by engineer. */
+"开始" = "开始";
+
+/* No comment provided by engineer. */
+"开始运动" = "开始运动";
+
+/* No comment provided by engineer. */
+"引体向上" = "引体向上";
+
+/* No comment provided by engineer. */
+"当天最多设置4个日程;总共不能设置超过20个日程;日程时间不能相同" = "当天最多设置4个日程;总共不能设置超过20个日程;日程时间不能相同";
+
+/* No comment provided by engineer. */
+"循环次数" = "循环次数";
+
+/* No comment provided by engineer. */
+"心率" = "心率";
+
+/* No comment provided by engineer. */
+"心率小知识" = "心率小知识";
+
+/* No comment provided by engineer. */
+"心率示警" = "心率示警";
+
+/* No comment provided by engineer. */
+"心肺锻炼" = "心肺锻炼";
+
+/* No comment provided by engineer. */
+"心肺锻炼（最大心率的80%-90%）" = "心肺锻炼（最大心率的80%1$-90%2$）";
+
+/* No comment provided by engineer. */
+"心跳" = "心跳";
+
+/* No comment provided by engineer. */
+"快速" = "快速";
+
+/* No comment provided by engineer. */
+"性别" = "性别";
+
+/* No comment provided by engineer. */
+"总时长" = "总时长";
+
+/* No comment provided by engineer. */
+"总消耗" = "总消耗";
+
+/* No comment provided by engineer. */
+"总距离" = "总距离";
+
+/* No comment provided by engineer. */
+"您的联系方式" = "您的联系方式";
+
+/* No comment provided by engineer. */
+"我" = "我";
+
+/* No comment provided by engineer. */
+"我的运动组合" = "我的运动组合";
+
+/* No comment provided by engineer. */
+"我知道了" = "我知道了";
+
+/* No comment provided by engineer. */
+"手环语言" = "手环语言";
+
+/* No comment provided by engineer. */
+"打开[定位服务]来允许[GPS运动]确定您的位置" = "打开[定位服务]来允许[GPS运动]确定您的位置";
+
+/* No comment provided by engineer. */
+"打开[定位服务权限]来允许[GPS运动]确定您的位置" = "打开[定位服务权限]来允许[GPS运动]确定您的位置";
+
+/* No comment provided by engineer. */
+"打开定位" = "打开定位";
+
+/* No comment provided by engineer. */
+"扫描设备的二维码，即可自动连接" = "扫描设备的二维码，即可自动连接";
+
+/* No comment provided by engineer. */
+"扫码连接" = "扫码连接";
+
+/* No comment provided by engineer. */
+"扫码连接设备" = "扫码连接设备";
+
+/* No comment provided by engineer. */
+"拍照" = "拍照";
+
+/* No comment provided by engineer. */
+"排球" = "排球";
+
+/* No comment provided by engineer. */
+"推送内容" = "推送内容";
+
+/* No comment provided by engineer. */
+"提交成功" = "提交成功";
+
+/* No comment provided by engineer. */
+"提示" = "提示";
+
+/* No comment provided by engineer. */
+"提醒开关" = "提醒开关";
+
+/* No comment provided by engineer. */
+"提醒时间" = "提醒时间";
+
+/* No comment provided by engineer. */
+"搜索" = "搜索";
+
+/* No comment provided by engineer. */
+"攀岩" = "攀岩";
+
+/* No comment provided by engineer. */
+"支持" = "支持";
+
+/* No comment provided by engineer. */
+"改善睡眠小Tips：" = "改善睡眠小Tips：";
+
+/* No comment provided by engineer. */
+"放射" = "放射";
+
+/* No comment provided by engineer. */
+"数据量太少，本次运动不保存" = "数据量太少，本次运动不保存";
+
+/* No comment provided by engineer. */
+"断奏" = "断奏";
+
+/* No comment provided by engineer. */
+"新增运动" = "新增运动";
+
+/* No comment provided by engineer. */
+"无权限访问摄像头" = "无权限访问摄像头";
+
+/* No comment provided by engineer. */
+"无权限访问相册" = "无权限访问相册";
+
+/* No comment provided by engineer. */
+"无氧运动" = "无氧运动";
+
+/* No comment provided by engineer. */
+"无氧运动（最大心率的70%-80%）" = "无氧运动（最大心率的70%1$-80%2$）";
+
+/* No comment provided by engineer. */
+"无氧锻炼" = "无氧锻炼";
+
+/* No comment provided by engineer. */
+"无法连接至该设备" = "无法连接至该设备";
+
+/* No comment provided by engineer. */
+"日均入睡" = "日均入睡";
+
+/* No comment provided by engineer. */
+"日均浅睡" = "日均浅睡";
+
+/* No comment provided by engineer. */
+"日均深睡" = "日均深睡";
+
+/* No comment provided by engineer. */
+"日均睡眠" = "日均睡眠";
+
+/* No comment provided by engineer. */
+"日均醒来" = "日均醒来";
+
+/* No comment provided by engineer. */
+"日常设置" = "日常设置";
+
+/* No comment provided by engineer. */
+"日程" = "日程";
+
+/* No comment provided by engineer. */
+"日程时间不可以早于当前时间" = "日程时间不可以早于当前时间";
+
+/* No comment provided by engineer. */
+"时速" = "时速";
+
+/* No comment provided by engineer. */
+"时长" = "时长";
+
+/* No comment provided by engineer. */
+"时间" = "时间";
+
+/* No comment provided by engineer. */
+"时间: 分钟" = "时间: 分钟";
+
+/* No comment provided by engineer. */
+"时间制式" = "时间制式";
+
+/* No comment provided by engineer. */
+"时间段" = "时间段";
+
+/* No comment provided by engineer. */
+"昨天" = "昨天";
+
+/* No comment provided by engineer. */
+"是否保存本次运动" = "是否保存本次运动";
+
+/* No comment provided by engineer. */
+"是否绑定该设备?" = "是否绑定该设备?";
+
+/* No comment provided by engineer. */
+"是否要清空日程" = "是否要清空日程";
+
+/* No comment provided by engineer. */
+"是较低强度锻炼区域，并且是刚开始参加锻炼人士的好选择。该区域称为有氧运动区域。它的特点是强度低，有节奏，持续时间较长。要求每次锻炼的时间不少于30分钟，每周坚持3到5次。这种锻炼，氧气能充分燃烧（即氧化）体内的糖分，还可消耗体内脂肪，增强和改善心肺功能，预防骨质疏松，调节心理和精神状态，是健身的主要运动方式。常见的运动有慢跑、自行车。" = "是较低强度锻炼区域，并且是刚开始参加锻炼人士的好选择。该区域称为有氧运动区域。它的特点是强度低，有节奏，持续时间较长。要求每次锻炼的时间不少于30分钟，每周坚持3到5次。这种锻炼，氧气能充分燃烧（即氧化）体内的糖分，还可消耗体内脂肪，增强和改善心肺功能，预防骨质疏松，调节心理和精神状态，是健身的主要运动方式。常见的运动有慢跑、自行车。";
+
+/* No comment provided by engineer. */
+"是较高强度锻炼区域。在此区域内，您出于努力锻炼状态，但不至于精疲力尽。对于大多数人，这是锻炼时的目标心率区域。" = "是较高强度锻炼区域。在此区域内，您出于努力锻炼状态，但不至于精疲力尽。对于大多数人，这是锻炼时的目标心率区域。";
+
+/* No comment provided by engineer. */
+"是适中强度锻炼区域。在此区域内，您运动时氧气的摄取量非常低，由于速度过快及爆发力过猛，人体内的糖分来不及经过氧气分解，而不得不依靠“无氧供能”。 无氧运动大部分是负荷强度高、瞬间性强的运动，所以很难持续长时间，而且疲劳消除的时间也慢。无氧运动最主要的功效是能增强肌肉力量和增加肌肉围度。常见的运动有举重、百米冲刺、摔跤等。" = "是适中强度锻炼区域。在此区域内，您运动时氧气的摄取量非常低，由于速度过快及爆发力过猛，人体内的糖分来不及经过氧气分解，而不得不依靠“无氧供能”。 无氧运动大部分是负荷强度高、瞬间性强的运动，所以很难持续长时间，而且疲劳消除的时间也慢。无氧运动最主要的功效是能增强肌肉力量和增加肌肉围度。常见的运动有举重、百米冲刺、摔跤等。";
+
+/* No comment provided by engineer. */
+"是高强度锻炼区间。在峰值区域进行短时间的高强度运动可以提高运动成绩和速度。" = "是高强度锻炼区间。在峰值区域进行短时间的高强度运动可以提高运动成绩和速度。";
+
+/* No comment provided by engineer. */
+"智拍" = "智拍";
+
+/* No comment provided by engineer. */
+"暂不升级" = "暂不升级";
+
+/* No comment provided by engineer. */
+"暂不支持该二维码" = "暂不支持该二维码";
+
+/* No comment provided by engineer. */
+"暂停" = "暂停";
+
+/* No comment provided by engineer. */
+"暂停时长" = "暂停时长";
+
+/* No comment provided by engineer. */
+"暂未获取设备的运动列表信息" = "暂未获取设备的运动列表信息";
+
+/* No comment provided by engineer. */
+"最佳配速" = "最佳配速";
+
+/* No comment provided by engineer. */
+"最多只能添加%d个活动" = "最多只能添加%d个活动";
+
+/* No comment provided by engineer. */
+"最多只能添加%d个闹钟" = "最多只能添加%d个闹钟";
+
+/* No comment provided by engineer. */
+"最大步频" = "最大步频";
+
+/* No comment provided by engineer. */
+"最短睡眠" = "最短睡眠";
+
+/* No comment provided by engineer. */
+"最长睡眠" = "最长睡眠";
+
+/* No comment provided by engineer. */
+"月" = "月";
+
+/* No comment provided by engineer. */
+"有氧运动" = "有氧运动";
+
+/* No comment provided by engineer. */
+"有氧运动（最大心率的50%-70%）" = "有氧运动（最大心率的50%1$-70%2$）";
+
+/* No comment provided by engineer. */
+"有氧锻炼" = "有氧锻炼";
+
+/* No comment provided by engineer. */
+"未知" = "未知";
+
+/* No comment provided by engineer. */
+"未确定运动目标" = "未确定运动目标";
+
+/* No comment provided by engineer. */
+"未绑定" = "未绑定";
+
+/* No comment provided by engineer. */
+"未获取到同步时间" = "未获取到同步时间";
+
+/* No comment provided by engineer. */
+"未设置" = "未设置";
+
+/* No comment provided by engineer. */
+"未连接" = "未连接";
+
+/* No comment provided by engineer. */
+"未选择运动类型" = "未选择运动类型";
+
+/* No comment provided by engineer. */
+"未选择重复设置" = "未选择重复设置";
+
+/* No comment provided by engineer. */
+"本周" = "本周";
+
+/* No comment provided by engineer. */
+"来电" = "来电";
+
+/* No comment provided by engineer. */
+"标签" = "标签";
+
+/* No comment provided by engineer. */
+"模式选择" = "模式选择";
+
+/* No comment provided by engineer. */
+"次" = "次";
+
+/* No comment provided by engineer. */
+"次/分钟" = "次/分钟";
+
+/* No comment provided by engineer. */
+"次数选择" = "次数选择";
+
+/* No comment provided by engineer. */
+"正在使用" = "正在使用";
+
+/* No comment provided by engineer. */
+"正在写入" = "正在写入";
+
+/* No comment provided by engineer. */
+"正在升级" = "正在升级";
+
+/* No comment provided by engineer. */
+"正在同步" = "正在同步";
+
+/* No comment provided by engineer. */
+"步" = "步";
+
+/* No comment provided by engineer. */
+"步/分钟" = "步/分钟";
+
+/* No comment provided by engineer. */
+"步数" = "步数";
+
+/* No comment provided by engineer. */
+"步行" = "步行";
+
+/* No comment provided by engineer. */
+"步频" = "步频";
+
+/* No comment provided by engineer. */
+"每天" = "每天";
+
+/* No comment provided by engineer. */
+"毽球" = "毽球";
+
+/* No comment provided by engineer. */
+"波兰语" = "波兰语";
+
+/* No comment provided by engineer. */
+"波浪" = "波浪";
+
+/* No comment provided by engineer. */
+"活动" = "活动";
+
+/* No comment provided by engineer. */
+"浅睡" = "浅睡";
+
+/* No comment provided by engineer. */
+"浅睡时长" = "浅睡时长";
+
+/* No comment provided by engineer. */
+"消息推送" = "消息推送";
+
+/* No comment provided by engineer. */
+"消耗" = "消耗";
+
+/* No comment provided by engineer. */
+"深睡" = "深睡";
+
+/* No comment provided by engineer. */
+"深睡时长" = "深睡时长";
+
+/* No comment provided by engineer. */
+"添加" = "添加";
+
+/* No comment provided by engineer. */
+"添加闹钟" = "添加闹钟";
+
+/* No comment provided by engineer. */
+"清空" = "清空";
+
+/* No comment provided by engineer. */
+"清醒" = "清醒";
+
+/* No comment provided by engineer. */
+"清醒时长" = "清醒时长";
+
+/* No comment provided by engineer. */
+"游泳" = "游泳";
+
+/* No comment provided by engineer. */
+"滑冰" = "滑冰";
+
+/* No comment provided by engineer. */
+"滑雪" = "滑雪";
+
+/* No comment provided by engineer. */
+"灯塔" = "灯塔";
+
+/* No comment provided by engineer. */
+"点" = "点";
+
+/* No comment provided by engineer. */
+"点击可以\n切换数据" = "点击可以\n切换数据";
+
+/* No comment provided by engineer. */
+"爬山" = "爬山";
+
+/* No comment provided by engineer. */
+"爱生活、爱运动" = "爱生活、爱运动";
+
+/* No comment provided by engineer. */
+"球类运动" = "球类运动";
+
+/* No comment provided by engineer. */
+"瑜伽" = "瑜伽";
+
+/* No comment provided by engineer. */
+"男" = "男";
+
+/* No comment provided by engineer. */
+"白色" = "白色";
+
+/* No comment provided by engineer. */
+"目标" = "目标";
+
+/* No comment provided by engineer. */
+"目标设定" = "目标设定";
+
+/* No comment provided by engineer. */
+"目标设置" = "目标设置";
+
+/* No comment provided by engineer. */
+"相册" = "相册";
+
+/* No comment provided by engineer. */
+"睡眠分数的得来:" = "睡眠分数的得来:";
+
+/* No comment provided by engineer. */
+"睡眠小知识" = "睡眠小知识";
+
+/* No comment provided by engineer. */
+"睡眠时长" = "睡眠时长";
+
+/* No comment provided by engineer. */
+"睡眠监测" = "睡眠监测";
+
+/* No comment provided by engineer. */
+"睡眠目标" = "睡眠目标";
+
+/* No comment provided by engineer. */
+"短信及其他提醒" = "短信及其他提醒";
+
+/* No comment provided by engineer. */
+"硬件功能" = "硬件功能";
+
+/* No comment provided by engineer. */
+"确定" = "确定";
+
+/* No comment provided by engineer. */
+"第%d周" = "第%d周";
+
+/* No comment provided by engineer. */
+"篮球" = "篮球";
+
+/* No comment provided by engineer. */
+"米、千米、千克" = "米、千米、千克";
+
+/* No comment provided by engineer. */
+"紧急修复" = "紧急修复";
+
+/* No comment provided by engineer. */
+"累计时长" = "累计时长";
+
+/* No comment provided by engineer. */
+"累计次数" = "累计次数";
+
+/* No comment provided by engineer. */
+"终点" = "终点";
+
+/* No comment provided by engineer. */
+"绑定" = "绑定";
+
+/* No comment provided by engineer. */
+"绑定设备" = "绑定设备";
+
+/* No comment provided by engineer. */
+"结束" = "结束";
+
+/* No comment provided by engineer. */
+"继续" = "继续";
+
+/* No comment provided by engineer. */
+"编辑运动" = "编辑运动";
+
+/* No comment provided by engineer. */
+"编辑闹钟" = "编辑闹钟";
+
+/* No comment provided by engineer. */
+"网球" = "网球";
+
+/* No comment provided by engineer. */
+"羽毛球" = "羽毛球";
+
+/* No comment provided by engineer. */
+"翻转手势" = "翻转手势";
+
+/* No comment provided by engineer. */
+"脂肪燃烧" = "脂肪燃烧";
+
+/* No comment provided by engineer. */
+"至少选中一天" = "至少选中一天";
+
+/* No comment provided by engineer. */
+"舞蹈" = "舞蹈";
+
+/* No comment provided by engineer. */
+"英制" = "英制";
+
+/* No comment provided by engineer. */
+"英寸 、英尺 、磅" = "英寸 、英尺 、磅";
+
+/* No comment provided by engineer. */
+"英文" = "英文";
+
+/* No comment provided by engineer. */
+"解除成功" = "解除成功";
+
+/* No comment provided by engineer. */
+"解除绑定" = "解除绑定";
+
+/* No comment provided by engineer. */
+"解除绑定该设备?" = "解除绑定该设备?";
+
+/* No comment provided by engineer. */
+"计量单位" = "计量单位";
+
+/* No comment provided by engineer. */
+"设备" = "设备";
+
+/* No comment provided by engineer. */
+"设备名称" = "设备名称";
+
+/* No comment provided by engineer. */
+"设备图片" = "设备图片";
+
+/* No comment provided by engineer. */
+"设备电量需大于50才可以升级" = "设备电量需大于50才可以升级";
+
+/* No comment provided by engineer. */
+"设备设置" = "设备设置";
+
+/* No comment provided by engineer. */
+"设置" = "设置";
+
+/* No comment provided by engineer. */
+"设置成功" = "设置成功";
+
+/* No comment provided by engineer. */
+"该运动不能删除" = "该运动不能删除";
+
+/* No comment provided by engineer. */
+"该闹钟已经存在" = "该闹钟已经存在";
+
+/* No comment provided by engineer. */
+"语言" = "语言";
+
+/* No comment provided by engineer. */
+"请先同意以上条款" = "请先同意以上条款";
+
+/* No comment provided by engineer. */
+"请在系统设置中开启定位服务(设置>隐私>定位服务>LinkSmart>始终)" = "请在系统设置中开启定位服务(设置>隐私>定位服务>LinkSmart>始终)";
+
+/* No comment provided by engineer. */
+"请在系统设置中开启定位服务(设置>隐私>定位服务>开启)" = "请在系统设置中开启定位服务(设置>隐私>定位服务>开启)";
+
+/* No comment provided by engineer. */
+"请在设置/隐私/相册中开启访问权限" = "请在设置/隐私/相册中开启访问权限";
+
+/* No comment provided by engineer. */
+"请在设置/隐私/相机中开启访问权限" = "请在设置/隐私/相机中开启访问权限";
+
+/* No comment provided by engineer. */
+"请在设置中打开定位" = "请在设置中打开定位";
+
+/* No comment provided by engineer. */
+"请对准设备二维码" = "请对准设备二维码";
+
+/* No comment provided by engineer. */
+"请扫描设备二维码" = "请扫描设备二维码";
+
+/* No comment provided by engineer. */
+"请把固件升级到3.0，否则将无法正常使用" = "请把固件升级到3.0，否则将无法正常使用";
+
+/* No comment provided by engineer. */
+"请稍候再试" = "请稍候再试";
+
+/* No comment provided by engineer. */
+"请设置提醒推送内容" = "请设置提醒推送内容";
+
+/* No comment provided by engineer. */
+"请设置提醒标签" = "请设置提醒标签";
+
+/* No comment provided by engineer. */
+"请输入您的姓名" = "请输入您的姓名";
+
+/* No comment provided by engineer. */
+"请输入您的邮箱地址，便于我们联系您!" = "请输入您的邮箱地址，便于我们联系您!";
+
+/* No comment provided by engineer. */
+"请输入相应的信息,谢谢合作!" = "请输入相应的信息,谢谢合作!";
+
+/* No comment provided by engineer. */
+"请连接设备" = "请连接设备";
+
+/* No comment provided by engineer. */
+"走路" = "走路";
+
+/* No comment provided by engineer. */
+"起点" = "起点";
+
+/* No comment provided by engineer. */
+"超过最大字数不能输入了" = "超过最大字数不能输入了";
+
+/* No comment provided by engineer. */
+"足球" = "足球";
+
+/* No comment provided by engineer. */
+"跑步" = "跑步";
+
+/* No comment provided by engineer. */
+"距离" = "距离";
+
+/* No comment provided by engineer. */
+"跳绳" = "跳绳";
+
+/* No comment provided by engineer. */
+"身高" = "身高";
+
+/* No comment provided by engineer. */
+"输入修改名称" = "输入修改名称";
+
+/* No comment provided by engineer. */
+"输入的反馈不能为空啊!" = "输入的反馈不能为空啊!";
+
+/* No comment provided by engineer. */
+"输入的字数过长!" = "输入的字数过长!";
+
+/* No comment provided by engineer. */
+"输入的邮箱格式有误!" = "输入的邮箱格式有误!";
+
+/* No comment provided by engineer. */
+"运动时长" = "运动时长";
+
+/* No comment provided by engineer. */
+"运动目标" = "运动目标";
+
+/* No comment provided by engineer. */
+"运动类型" = "运动类型";
+
+/* No comment provided by engineer. */
+"运动记录" = "运动记录";
+
+/* No comment provided by engineer. */
+"返回" = "返回";
+
+/* No comment provided by engineer. */
+"还未绑定设备" = "还未绑定设备";
+
+/* No comment provided by engineer. */
+"还未选择提醒时间" = "还未选择提醒时间";
+
+/* No comment provided by engineer. */
+"还没有心率数据" = "还没有心率数据";
+
+/* No comment provided by engineer. */
+"还没有测到睡眠数据" = "还没有测到睡眠数据";
+
+/* No comment provided by engineer. */
+"还没有添加任何运动，赶紧动起来吧" = "还没有添加任何运动，赶紧动起来吧";
+
+/* No comment provided by engineer. */
+"还没有运动数据，赶紧去运动吧" = "还没有运动数据，赶紧去运动吧";
+
+/* No comment provided by engineer. */
+"进入" = "进入";
+
+/* No comment provided by engineer. */
+"连接中" = "连接中";
+
+/* No comment provided by engineer. */
+"连接中..." = "连接中...";
+
+/* No comment provided by engineer. */
+"连接成功" = "连接成功";
+
+/* No comment provided by engineer. */
+"连接状态" = "连接状态";
+
+/* No comment provided by engineer. */
+"连接超时" = "连接超时";
+
+/* No comment provided by engineer. */
+"连续达标" = "连续达标";
+
+/* No comment provided by engineer. */
+"选择时间范围" = "选择时间范围";
+
+/* No comment provided by engineer. */
+"选择照片" = "选择照片";
+
+/* No comment provided by engineer. */
+"邮箱" = "邮箱";
+
+/* No comment provided by engineer. */
+"配速" = "配速";
+
+/* No comment provided by engineer. */
+"醒来时间" = "醒来时间";
+
+/* No comment provided by engineer. */
+"重复设置" = "重复设置";
+
+/* No comment provided by engineer. */
+"错误：无法访问摄像头" = "错误：无法访问摄像头";
+
+/* No comment provided by engineer. */
+"闹钟" = "闹钟";
+
+/* No comment provided by engineer. */
+"闹钟设置" = "闹钟设置";
+
+/* No comment provided by engineer. */
+"震动模式" = "震动模式";
+
+/* No comment provided by engineer. */
+"震动设置" = "震动设置";
+
+/* No comment provided by engineer. */
+"首页" = "首页";
+
+/* No comment provided by engineer. */
+"骑自行车" = "骑自行车";
+
+/* No comment provided by engineer. */
+"骑车" = "骑车";
+
+/* No comment provided by engineer. */
+"黑白反色" = "黑白反色";
+
+/* No comment provided by engineer. */
+"黑色" = "黑色";
+
+/* No comment provided by engineer. */
+"上午" = "AM";
+
+/* No comment provided by engineer. */
+"下午" = "PM";
+
+/* No comment provided by engineer. */
+"个人信息" = "Informace";
+
+/* No comment provided by engineer. */
+"今天共完成%d个目标，请继续加油，加油!" = "%d cílů splněno. Jen tak dál!";
+
+/* No comment provided by engineer. */
+"今天目标全部完成，恭喜您!" = "Všech cílů bylo dnes dosaženo!";
+
+/* No comment provided by engineer. */
+"今天目标已经完成" = "Dnešní cíl byl dosažen!";
+
+/* No comment provided by engineer. */
+"今天目标未完成" = "Dnešní cíl nebyl dosažen!";
+
+/* No comment provided by engineer. */
+"共%d个目标今天均未完成，请继续加油，加油!" = "%d cílů nesplněno. Nevzdávejte to.";
+
+/* No comment provided by engineer. */
+"暂无" = "Ne";
+
+/* No comment provided by engineer. */
+"设备连接" = "Zařízení připojeno";
+
+/* No comment provided by engineer. */
+"版本信息" = "Verze";
+
+/* No comment provided by engineer. */
+"解除连接" = "Odpojit";
+
+/* No comment provided by engineer. */
+"检测固件版本..." = "Zkontrolovat verzi";
+
+/* No comment provided by engineer. */
+"目前只支持i7固件升级" = "Nepodporováno";
+
+/* No comment provided by engineer. */
+"深睡时间" = "Hluboký spánek";
+
+/* No comment provided by engineer. */
+"浅睡时间" = "Lehký spánek";
+
+/* No comment provided by engineer. */
+"需要改善" = "Nedostatečný spánek";
+
+/* No comment provided by engineer. */
+"睡眠优秀" = "Výborný spánek";
+
+/* No comment provided by engineer. */
+"已实现目标次数" = "cíl dosažen";
+
+/* No comment provided by engineer. */
+"分" = "min";
+
+/* No comment provided by engineer. */
+"日均步数" = "Kroky";
+
+/* No comment provided by engineer. */
+"日均时间" = "Čas";
+
+/* No comment provided by engineer. */
+"总 里 程" = "Vzdálenost";
+
+/* No comment provided by engineer. */
+"总 消 耗" = "Kalorie";
+
+/* No comment provided by engineer. */
+"简体" = "Zadejte e-mail";
+
+/* No comment provided by engineer. */
+"全部打开" = "Otevřít vše";
+
+/* No comment provided by engineer. */
+"意大利语" = "Italsky";
+
+/* No comment provided by engineer. */
+"分数" = "Skóre";
+
+/* No comment provided by engineer. */
+"月/日" = "MM/DD";
+
+/* No comment provided by engineer. */
+"日/月" = "DD/MM";
+
+/* No comment provided by engineer. */
+"日期格式" = "Date Format";
+
+/* No comment provided by engineer. */
+"Automatic activity detection" = "Automatic activity detection";
+
+/* No comment provided by engineer. */
+"BMI" = "BMI";
+
+/* No comment provided by engineer. */
+"卡 " = "קלוריות";
+
+/* No comment provided by engineer. */
+"//计量单位修改，pound改为Imperical" = "פאונדים";
+
+/* No comment provided by engineer. */
+"drink_2100" = "זמנים זה הכל! אז בכל אימון, יש להתחשב בזמן הפעילות, משך המנוחות בין הסטים, משך החימום וההרפייה. שעון הוא כלי חשוב לכך כמובן.";
+
+/* No comment provided by engineer. */
+" 关闭列表" = "סגור רשימה";
+
+/* No comment provided by engineer. */
+"检测固件版本…" = "בדוק גרסה";
+
+/* No comment provided by engineer. */
+"Volleyball" = "כדורעף";
+
+/* No comment provided by engineer. */
+"drink_1000" = "Bere acqua ti mantiene in forma e ti rende più bello!";
+
+/* No comment provided by engineer. */
+"drink_0840" = "马上要开始一天的紧张学习和工作了，喝一杯水让自己保持好的状态吧。";
+
+/* No comment provided by engineer. */
+"drink_1150" = "餐前充分饮水有助于消化和减肥。";
+
+/* No comment provided by engineer. */
+"drink_1400" = "喝水为您的健康和美丽加分，加油！";
+
+/* No comment provided by engineer. */
+"drink_1600" = "喝水有助于缓解压力，要好好照顾自己哦。";
+
+/* No comment provided by engineer. */
+"drink_1750" = "消化食物需要大量的水，大餐前充分饮水才不会亏待自己。";
+
+/* No comment provided by engineer. */
+"drink_2200" = "今天你很棒，为美容觉补水吧。";
+
+/* No comment provided by engineer. */
+"dinner_1200" = "午餐时间到了，午餐要吃饱下午才有精神继续学习和工作。";
+
+/* No comment provided by engineer. */
+"dinner_1800" = "晚餐时间到了，清淡与适量的晚餐更有助于身体健康。";
+
+/* No comment provided by engineer. */
+"潜水时间" = "潜水时间";
+
+/* No comment provided by engineer. */
+"    是适中强度锻炼区域。在此区域内，您运动时氧气的摄取量非常低，由于速度过快及爆发力过猛，人体内的糖分来不及经过氧气分解，而不得不依靠“无氧供能”。 无氧运动大部分是负荷强度高、瞬间性强的运动，所以很难持续长时间，而且疲劳消除的时间也慢。无氧运动最主要的功效是能增强肌肉力量和增加肌肉围度。常见的运动有举重、百米冲刺、摔跤等。" = "    是适中强度锻炼区域。在此区域内，您运动时氧气的摄取量非常低，由于速度过快及爆发力过猛，人体内的糖分来不及经过氧气分解，而不得不依靠“无氧供能”。 无氧运动大部分是负荷强度高、瞬间性强的运动，所以很难持续长时间，而且疲劳消除的时间也慢。无氧运动最主要的功效是能增强肌肉力量和增加肌肉围度。常见的运动有举重、百米冲刺、摔跤等。";
+
+/* No comment provided by engineer. */
+"    是较高强度锻炼区域。在此区域内，您出于努力锻炼状态，但不至于精疲力尽。对于大多数人，这是锻炼时的目标心率区域。" = "    是较高强度锻炼区域。在此区域内，您出于努力锻炼状态，但不至于精疲力尽。对于大多数人，这是锻炼时的目标心率区域。";
+
+/* No comment provided by engineer. */
+"    是高强度锻炼区间。在峰值区域进行短时间的高强度运动可以提高运动成绩和速度。" = "    是高强度锻炼区间。在峰值区域进行短时间的高强度运动可以提高运动成绩和速度。";
+
+/* No comment provided by engineer. */
+"时间：分钟" = "时间：分钟";
+

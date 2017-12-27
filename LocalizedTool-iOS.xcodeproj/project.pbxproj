@@ -1,0 +1,438 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		B30A27E483DC312982018844 /* Pods_LocalizedTool_iOS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C8872728D4671D1381DA486B /* Pods_LocalizedTool_iOS.framework */; };
+		CDFE49C01FF3892D003CFD4F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = CDFE49BF1FF3892D003CFD4F /* AppDelegate.m */; };
+		CDFE49C31FF3892D003CFD4F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CDFE49C21FF3892D003CFD4F /* ViewController.m */; };
+		CDFE49C61FF3892D003CFD4F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CDFE49C41FF3892D003CFD4F /* Main.storyboard */; };
+		CDFE49C81FF3892D003CFD4F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CDFE49C71FF3892D003CFD4F /* Assets.xcassets */; };
+		CDFE49CB1FF3892D003CFD4F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CDFE49C91FF3892D003CFD4F /* LaunchScreen.storyboard */; };
+		CDFE49CE1FF3892D003CFD4F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CDFE49CD1FF3892D003CFD4F /* main.m */; };
+		CDFE49D61FF38A16003CFD4F /* LocalizedTool.m in Sources */ = {isa = PBXBuildFile; fileRef = CDFE49D51FF38A16003CFD4F /* LocalizedTool.m */; };
+		CDFE4A321FF3A0AD003CFD4F /* Localizable.txt in Resources */ = {isa = PBXBuildFile; fileRef = CDFE4A311FF3A0AD003CFD4F /* Localizable.txt */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		0AA1A05F913E18F224F2C940 /* Pods-LocalizedTool-iOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LocalizedTool-iOS.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LocalizedTool-iOS/Pods-LocalizedTool-iOS.debug.xcconfig"; sourceTree = "<group>"; };
+		B7E7060A909D98528420B746 /* Pods-LocalizedTool-iOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LocalizedTool-iOS.release.xcconfig"; path = "Pods/Target Support Files/Pods-LocalizedTool-iOS/Pods-LocalizedTool-iOS.release.xcconfig"; sourceTree = "<group>"; };
+		C8872728D4671D1381DA486B /* Pods_LocalizedTool_iOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LocalizedTool_iOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		CDFE49BB1FF3892D003CFD4F /* LocalizedTool-iOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "LocalizedTool-iOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CDFE49BE1FF3892D003CFD4F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		CDFE49BF1FF3892D003CFD4F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		CDFE49C11FF3892D003CFD4F /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		CDFE49C21FF3892D003CFD4F /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		CDFE49C51FF3892D003CFD4F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		CDFE49C71FF3892D003CFD4F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		CDFE49CA1FF3892D003CFD4F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		CDFE49CC1FF3892D003CFD4F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CDFE49CD1FF3892D003CFD4F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		CDFE49D41FF38A16003CFD4F /* LocalizedTool.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LocalizedTool.h; sourceTree = "<group>"; };
+		CDFE49D51FF38A16003CFD4F /* LocalizedTool.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LocalizedTool.m; sourceTree = "<group>"; };
+		CDFE4A311FF3A0AD003CFD4F /* Localizable.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Localizable.txt; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		CDFE49B81FF3892D003CFD4F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B30A27E483DC312982018844 /* Pods_LocalizedTool_iOS.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		BEBF7EB604DE06F2C6AE5A70 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				0AA1A05F913E18F224F2C940 /* Pods-LocalizedTool-iOS.debug.xcconfig */,
+				B7E7060A909D98528420B746 /* Pods-LocalizedTool-iOS.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		CDCDC45C2866CEBBBB4705C7 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				C8872728D4671D1381DA486B /* Pods_LocalizedTool_iOS.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		CDFE49B21FF3892C003CFD4F = {
+			isa = PBXGroup;
+			children = (
+				CDFE49BD1FF3892D003CFD4F /* LocalizedTool-iOS */,
+				CDFE49BC1FF3892D003CFD4F /* Products */,
+				BEBF7EB604DE06F2C6AE5A70 /* Pods */,
+				CDCDC45C2866CEBBBB4705C7 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		CDFE49BC1FF3892D003CFD4F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				CDFE49BB1FF3892D003CFD4F /* LocalizedTool-iOS.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		CDFE49BD1FF3892D003CFD4F /* LocalizedTool-iOS */ = {
+			isa = PBXGroup;
+			children = (
+				CDFE49BE1FF3892D003CFD4F /* AppDelegate.h */,
+				CDFE49BF1FF3892D003CFD4F /* AppDelegate.m */,
+				CDFE49C11FF3892D003CFD4F /* ViewController.h */,
+				CDFE49C21FF3892D003CFD4F /* ViewController.m */,
+				CDFE49D41FF38A16003CFD4F /* LocalizedTool.h */,
+				CDFE49D51FF38A16003CFD4F /* LocalizedTool.m */,
+				CDFE4A311FF3A0AD003CFD4F /* Localizable.txt */,
+				CDFE49C41FF3892D003CFD4F /* Main.storyboard */,
+				CDFE49C71FF3892D003CFD4F /* Assets.xcassets */,
+				CDFE49C91FF3892D003CFD4F /* LaunchScreen.storyboard */,
+				CDFE49CC1FF3892D003CFD4F /* Info.plist */,
+				CDFE49CD1FF3892D003CFD4F /* main.m */,
+			);
+			path = "LocalizedTool-iOS";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		CDFE49BA1FF3892D003CFD4F /* LocalizedTool-iOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CDFE49D11FF3892D003CFD4F /* Build configuration list for PBXNativeTarget "LocalizedTool-iOS" */;
+			buildPhases = (
+				63A13AB44A3F4EA62E53A13C /* [CP] Check Pods Manifest.lock */,
+				CDFE49B71FF3892D003CFD4F /* Sources */,
+				CDFE49B81FF3892D003CFD4F /* Frameworks */,
+				CDFE49B91FF3892D003CFD4F /* Resources */,
+				38D2DC262EF1C701CAF67170 /* [CP] Embed Pods Frameworks */,
+				97FAE53A35AD0079F6F73F04 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "LocalizedTool-iOS";
+			productName = "LocalizedTool-iOS";
+			productReference = CDFE49BB1FF3892D003CFD4F /* LocalizedTool-iOS.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		CDFE49B31FF3892C003CFD4F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0920;
+				ORGANIZATIONNAME = xaoxuu;
+				TargetAttributes = {
+					CDFE49BA1FF3892D003CFD4F = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = CDFE49B61FF3892C003CFD4F /* Build configuration list for PBXProject "LocalizedTool-iOS" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+				de,
+				he,
+				"zh-Hans",
+				"el-GR",
+				nb,
+				es,
+				da,
+				it,
+				sv,
+				cs,
+				ru,
+				fr,
+				fi,
+				nl,
+				"pl-PL",
+				"pt-PT",
+			);
+			mainGroup = CDFE49B21FF3892C003CFD4F;
+			productRefGroup = CDFE49BC1FF3892D003CFD4F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				CDFE49BA1FF3892D003CFD4F /* LocalizedTool-iOS */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		CDFE49B91FF3892D003CFD4F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CDFE49CB1FF3892D003CFD4F /* LaunchScreen.storyboard in Resources */,
+				CDFE49C81FF3892D003CFD4F /* Assets.xcassets in Resources */,
+				CDFE49C61FF3892D003CFD4F /* Main.storyboard in Resources */,
+				CDFE4A321FF3A0AD003CFD4F /* Localizable.txt in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		38D2DC262EF1C701CAF67170 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-LocalizedTool-iOS/Pods-LocalizedTool-iOS-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/AXKit/AXKit.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AXKit.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-LocalizedTool-iOS/Pods-LocalizedTool-iOS-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		63A13AB44A3F4EA62E53A13C /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-LocalizedTool-iOS-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		97FAE53A35AD0079F6F73F04 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-LocalizedTool-iOS/Pods-LocalizedTool-iOS-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		CDFE49B71FF3892D003CFD4F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CDFE49C31FF3892D003CFD4F /* ViewController.m in Sources */,
+				CDFE49CE1FF3892D003CFD4F /* main.m in Sources */,
+				CDFE49C01FF3892D003CFD4F /* AppDelegate.m in Sources */,
+				CDFE49D61FF38A16003CFD4F /* LocalizedTool.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		CDFE49C41FF3892D003CFD4F /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CDFE49C51FF3892D003CFD4F /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		CDFE49C91FF3892D003CFD4F /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CDFE49CA1FF3892D003CFD4F /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		CDFE49CF1FF3892D003CFD4F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		CDFE49D01FF3892D003CFD4F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		CDFE49D21FF3892D003CFD4F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0AA1A05F913E18F224F2C940 /* Pods-LocalizedTool-iOS.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C36HX8DP4;
+				INFOPLIST_FILE = "LocalizedTool-iOS/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.xaoxuu.demo.LocalizedTool-iOS";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		CDFE49D31FF3892D003CFD4F /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B7E7060A909D98528420B746 /* Pods-LocalizedTool-iOS.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C36HX8DP4;
+				INFOPLIST_FILE = "LocalizedTool-iOS/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.xaoxuu.demo.LocalizedTool-iOS";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CDFE49B61FF3892C003CFD4F /* Build configuration list for PBXProject "LocalizedTool-iOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CDFE49CF1FF3892D003CFD4F /* Debug */,
+				CDFE49D01FF3892D003CFD4F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CDFE49D11FF3892D003CFD4F /* Build configuration list for PBXNativeTarget "LocalizedTool-iOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CDFE49D21FF3892D003CFD4F /* Debug */,
+				CDFE49D31FF3892D003CFD4F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CDFE49B31FF3892C003CFD4F /* Project object */;
+}
